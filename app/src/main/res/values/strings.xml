@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdMob Interstitial Example</string>
+    <string name="impossible_game">Impossible Game</string>
+    <string name="retry_button_text">Retry</string>
+
+    <string name="app_id" translatable="false">ca-app-pub-5972202469838280~1218971659</string>
+    <string name="interstitial_id" translatable="false">ca-app-pub-5972202469838280/5515754202</string>
+</resources>
